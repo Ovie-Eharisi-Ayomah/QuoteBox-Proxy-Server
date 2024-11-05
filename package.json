@@ -1,0 +1,19 @@
+{
+  "name": "quote-generator-proxy-server",
+  "version": "1.0.0",
+  "main": "server.js",
+  "scripts": {
+    "build": "npm run build",
+    "start": "node server.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "express": "^4.21.1",
+    "http-proxy": "^1.18.1",
+    "request": "^2.88.2",
+    "require": "^2.4.20"
+  }
+}
